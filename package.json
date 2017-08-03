@@ -1,0 +1,15 @@
+{
+  "name": "emaily",
+  "version": "1.0.0",
+  "description": "A cloud-based survey service that let's startups send out custom surveys and analyze feedback.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Govind Rai",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.15.3"
+  }
+}
